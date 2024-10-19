@@ -1,3 +1,2 @@
 I am Hoang Su Phu
-I put this line for testing command git diff
 
